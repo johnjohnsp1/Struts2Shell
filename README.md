@@ -1,6 +1,6 @@
-# Struts2Shell
+# Struts2Shell - interactive shell command
 
-Improves manipulation of commands using a shell
+Improves manipulation and sending commands to the vulnerable server using a shell.
 
 Usage:
 python Struts2Shell.py
